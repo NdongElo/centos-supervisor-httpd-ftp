@@ -49,4 +49,4 @@
 **docker pull ndongelo/centos-supervisor-httpd-vsftpd**
 
 ## Authors
-Aurelio Celestino Ndong Elo
+Celestino Ndong Elo
